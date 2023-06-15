@@ -43,6 +43,7 @@ Logic gates are the basic building blocks of any digital system. It is an electr
 ![image](https://user-images.githubusercontent.com/71547910/235332254-db13d222-1246-4b57-bbb2-3ab2287ccaa8.png)
 
 ## PROGRAM:
+```
 int bs1 = 0;
 int bs2 = 0; // variable for reading the pushbutton status
 int bs3 = 0;
@@ -81,7 +82,7 @@ else if (bs4 == 1 && bs5 == 1)
 digitalWrite(13, bs3);
 }
 }
-
+```
 ## CIRCUIT DIAGRAM:
 ![image](https://github.com/hariharan2383/Logical-Operation/assets/117346668/2f84ab64-4419-44f7-a902-b80ce8037269)
 ## OUTPUT:
