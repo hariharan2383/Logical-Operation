@@ -85,7 +85,7 @@ digitalWrite(13, bs3);
 ## CIRCUIT DIAGRAM:
 https://github.com/hariharan2383/Logical-Operation/blob/9c7eab60604a116859422351b17fdaf1057c33d9/LOCD.png
 ## OUTPUT:
-https://github.com/hariharan2383/Logical-Operation/blob/4b9bfc6e988b11912e87ca690eec82de074a889e/Output1.png
+![image](https://github.com/hariharan2383/Logical-Operation/assets/117346668/99ee214b-48cc-43af-ad7a-59ff4a435cea)
 ## RESULT:
 
 Thus the logical operation was performed by Arduino UNO controller
