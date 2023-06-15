@@ -83,7 +83,7 @@ digitalWrite(13, bs3);
 }
 
 ## CIRCUIT DIAGRAM:
-https://github.com/hariharan2383/Logical-Operation/blob/9c7eab60604a116859422351b17fdaf1057c33d9/LOCD.png
+![image](https://github.com/hariharan2383/Logical-Operation/assets/117346668/2f84ab64-4419-44f7-a902-b80ce8037269)
 ## OUTPUT:
 ![image](https://github.com/hariharan2383/Logical-Operation/assets/117346668/99ee214b-48cc-43af-ad7a-59ff4a435cea)
 ## RESULT:
